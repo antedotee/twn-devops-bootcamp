@@ -4,7 +4,7 @@
 This project is the entry point to access all my notes, demo projects and exercises for Nana Janashia's [DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). The bootcamp is made up of the following 16 modules:
 
 1. Overview and Intro to DevOps
-2. [OS & Linux Basics](https://github.com/fsiegrist/devops-bootcamp-02-linux)
+2. [Operating Systems & Linux Basics](https://github.com/fsiegrist/devops-bootcamp-02-linux)
 3. [Version Control with Git](https://github.com/fsiegrist/devops-bootcamp-03-git)
 4. [Build & Package Manager Tools (Maven, Gradle)](https://github.com/fsiegrist/devops-bootcamp-04-buildtools)
 5. [Cloud & IaaS](https://github.com/fsiegrist/devops-bootcamp-05-cloud-iaas-basics)
