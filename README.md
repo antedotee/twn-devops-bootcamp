@@ -15,7 +15,7 @@ This project is the entry point to access all my notes, demo projects and exerci
 9. [AWS Services](https://github.com/fsiegrist/devops-bootcamp-09-aws-services)
 10. [Container Orchestration with Kubernetes](https://github.com/fsiegrist/devops-bootcamp-10-kubernetes)
 11. [Kubernetes on AWS](https://github.com/fsiegrist/devops-bootcamp-11-k8s-aws-eks)
-12. [IaC with Terraform](https://github.com/fsiegrist/devops-bootcamp-12-terraform)
+12. [Infrastructure as Code with Terraform](https://github.com/fsiegrist/devops-bootcamp-12-terraform)
 13. [Programming Basics (Python)](https://github.com/fsiegrist/devops-bootcamp-13-python-basics)
 14. [Automation with Python](https://github.com/fsiegrist/devops-bootcamp-14-python-automation)
 15. [Configuration Management with Ansible](https://github.com/fsiegrist/devops-bootcamp-15-ansible)
